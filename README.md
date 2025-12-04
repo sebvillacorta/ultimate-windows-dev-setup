@@ -1,5 +1,7 @@
-![Aditya Kanoi Banner](https://github.com/sebvillacorta/Sebvillacorta/blob/main/badas/bannerstv.png?raw=true)
 <div align="center">
+  
+![Aditya Kanoi Banner](https://github.com/sebvillacorta/ultimate-windows-dev-setup/blob/main/imagens%20para%20githud/Windows-vs-Linux.webp?raw=true)
+
   <!-- GitHub -->
   <a href="https://github.com/sebvillacorta" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-sebvillacorta-000000?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
