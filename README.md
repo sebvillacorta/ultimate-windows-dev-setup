@@ -30,12 +30,12 @@ muchas animaciones, procesos en segundo plano, aplicaciones innecesarias, ventan
 
 Este repositorio documenta mi transformación completa de un escritorio tradicional y poco optimizado a un entorno de trabajo:
 
-✅ Rápido
-✅ Minimalista
-✅ Estable
-✅ Enfocado en productividad
-✅ Con un sistema de ventanas eficiente tipo tiling window manager
-✅ Optimizado para estudio, desarrollo y multitarea real
+- ✅ Rápido
+- ✅ Minimalista
+- ✅ Estable
+- ✅ Enfocado en productividad
+- ✅ Con un sistema de ventanas eficiente tipo tiling window manager
+- ✅ Optimizado para estudio, desarrollo y multitarea real
 
 Aquí no solo verás estética, sino optimización real del sistema operativo a nivel de rendimiento, servicios, procesos y flujo de trabajo.
 
