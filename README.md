@@ -92,6 +92,8 @@ Este comando descarga y ejecuta la herramienta oficial de optimización de Windo
 
 ## 💡 Este script NO es de mi autoría.
 
+https://github.com/ChrisTitusTech/winutil?tab=readme-ov-file
+
 Lo utilizo porque es seguro, open-source, ampliamente probado y confiable, y permite hacer optimizaciones profundas sin tocar manualmente el registro de Windows.
 
 Todo explicado en español, de forma clara, paso a paso.
