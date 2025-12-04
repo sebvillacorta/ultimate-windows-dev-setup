@@ -43,22 +43,23 @@ Aquí no solo verás estética, sino optimización real del sistema operativo a 
 
 ![simple Banner](https://github.com/sebvillacorta/ultimate-windows-dev-setup/blob/main/imagens%20para%20githud/00xBy0JjVybodfIwWxeGCkZ-24.webp?raw=true)
 
+<div align="center">
+
 ![simple2 Banner](https://github.com/sebvillacorta/ultimate-windows-dev-setup/blob/main/imagens%20para%20githud/blog-5-24-2022-howtousesnaplayoutsinwindows11.webp?raw=true)
 
-<div align="center">
 
 # VS
 
-</div>
+
 
 ![simple3 Banner](https://github.com/sebvillacorta/ultimate-windows-dev-setup/blob/main/imagens%20para%20githud/Dise%C3%B1o%20sin%20t%C3%ADtulo.png?raw=true)
 
-
+</div>
 
 
 # 🔧 ¿Cómo se logra esta transformación?
 
-<img align="right" width=200px alt="Unicorn" src="https://github.com/sebvillacorta/ultimate-windows-dev-setup/blob/main/imagens%20para%20githud/Dise%C3%B1o%20sin%20t%C3%ADtulo.png"/>
+<img align="right" width=200px alt="Unicorn" src="https://github.com/sebvillacorta/ultimate-windows-dev-setup/blob/main/imagens%20para%20githud/f1c5994e5372a2e143a59c9b9e0437a6.jpg?raw=true"/>
 
 Este repositorio documenta paso a paso cómo logré esa transformación usando:
 
@@ -72,7 +73,29 @@ Este repositorio documenta paso a paso cómo logré esa transformación usando:
 
 - ⚡ Ajustes de rendimiento, servicios y privacidad
 
+
+# Empesamos con Optimización Inicial del Sistema con Chris Titus Tech Tool
+
+## 📌 Comando usado
+
+    iwr -useb https://christitus.com/win | iex
+
+## ❓ ¿Qué es este comando?
+
+Este comando descarga y ejecuta la herramienta oficial de optimización de Windows creada por Chris Titus Tech, un reconocido técnico y creador de contenido especializado en rendimiento, seguridad y sistemas operativos.
+
+    iwr → Descarga el script desde internet (Invoke-WebRequest)
+
+    -useb → Uso básico y directo de la descarga
+
+    | iex → Ejecuta automáticamente el contenido descargado
+
+## 💡 Este script NO es de mi autoría.
+
+Lo utilizo porque es seguro, open-source, ampliamente probado y confiable, y permite hacer optimizaciones profundas sin tocar manualmente el registro de Windows.
+
 Todo explicado en español, de forma clara, paso a paso.
+
 <br>
 
 
