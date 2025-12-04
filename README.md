@@ -58,7 +58,7 @@ Aquí no solo verás estética, sino optimización real del sistema operativo a 
 
 # 🔧 ¿Cómo se logra esta transformación?
 
-<img align="right" width=200px alt="Unicorn" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif](https://github.com/sebvillacorta/ultimate-windows-dev-setup/blob/main/imagens%20para%20githud/Dise%C3%B1o%20sin%20t%C3%ADtulo.png?raw=true)"/>
+<img align="right" width=200px alt="Unicorn" src="https://github.com/sebvillacorta/ultimate-windows-dev-setup/blob/main/imagens%20para%20githud/Dise%C3%B1o%20sin%20t%C3%ADtulo.png"/>
 
 Este repositorio documenta paso a paso cómo logré esa transformación usando:
 
@@ -76,5 +76,3 @@ Todo explicado en español, de forma clara, paso a paso.
 <br>
 
 
-
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
