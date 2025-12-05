@@ -96,7 +96,7 @@ https://github.com/ChrisTitusTech/winutil?tab=readme-ov-file
 
 Lo utilizo porque es seguro, open-source, ampliamente probado y confiable, y permite hacer optimizaciones profundas sin tocar manualmente el registro de Windows.
 
-Todo explicado en español, de forma clara, paso a paso.
+Todo explicado en español, de forma clara, paso a paso https://github.com/sebvillacorta/ultimate-windows-dev-setup/blob/main/%F0%9F%9B%A0%EF%B8%8F%20Configuraci%C3%B3n%20Recomendada%20%E2%80%93%20Chris%20Titus%20Tech%20Tool.md
 
 <br>
 
