@@ -74,7 +74,9 @@ Este repositorio documenta paso a paso cómo logré esa transformación usando:
 - ⚡ Ajustes de rendimiento, servicios y privacidad
 
 
-# .1 Empesamos con Optimización Inicial del Sistema con Chris Titus Tech Tool
+# ⚙️1 Empesamos con Optimización Inicial del Sistema con Chris Titus Tech Tool
+
+![simple6](https://github.com/sebvillacorta/ultimate-windows-dev-setup/blob/main/imagens%20para%20githud/Captura%20de%20pantalla%202025-12-05%20235648.png?raw=true)
 
 ## 📌 Comando usado
 
