@@ -74,7 +74,7 @@ Este repositorio documenta paso a paso cómo logré esa transformación usando:
 - ⚡ Ajustes de rendimiento, servicios y privacidad
 
 
-# Empesamos con Optimización Inicial del Sistema con Chris Titus Tech Tool
+# .1 Empesamos con Optimización Inicial del Sistema con Chris Titus Tech Tool
 
 ## 📌 Comando usado
 
