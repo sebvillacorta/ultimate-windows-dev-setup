@@ -112,7 +112,7 @@ Vamos a trabajar con GlazeWM, YASB y Windhawk para transformar Windows en un ent
 
 El objetivo no es solo que se vea bien, sino reducir fricción, optimizar flujos de trabajo y lograr una experiencia minimalista pero altamente productiva, donde el sistema se adapte a nosotros y no al revés.
 
-Ademas aqui tienen la carpeta de mis wallpapers favoritos.
+Ademas aqui tienen la carpeta de mis wallpapers favoritos.[wallapaper](https://github.com/sebvillacorta/ultimate-windows-dev-setup/tree/4912ebf53db7aadf2ee049f347cbf927a339963a/wallapapers)
 
 Con estas herramientas vamos a:
 
