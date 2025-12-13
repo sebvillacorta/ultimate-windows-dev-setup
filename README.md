@@ -103,11 +103,30 @@ Lo utilizo porque es seguro, open-source, ampliamente probado y confiable, y per
 <br>
 
 
-# ⚙️1 Empesamos con Optimización Inicial del Sistema con Chris Titus Tech Tool
+# 🧩 2 Ahora sí: comenzamos con la configuración y personalización total del sistema
 
-![simple6]( )
+![simple6](https://github.com/sebvillacorta/ultimate-windows-dev-setup/blob/main/imagens%20para%20githud/Brown%20and%20Beige%20Vintage%20Scrapbook%20Newspaper%20Creative%20Portfolio%20Presentation.jpg?raw=true)
 
+Ahora sí entramos en la parte más importante: la configuración y customización del sistema.
+Vamos a trabajar con GlazeWM, YASB y Windhawk para transformar Windows en un entorno más automático, limpio y eficiente.
 
+El objetivo no es solo que se vea bien, sino reducir fricción, optimizar flujos de trabajo y lograr una experiencia minimalista pero altamente productiva, donde el sistema se adapte a nosotros y no al revés.
+
+Ademas aqui tienen la carpeta de mis wallpapers favoritos.
+
+Con estas herramientas vamos a:
+
+- Automatizar la organización de ventanas
+
+- Simplificar la interacción diaria
+
+- Mantener un entorno visual limpio
+
+- Aumentar la productividad sin sacrificar estética
+
+Este es el punto donde Windows deja de sentirse “pesado” y empieza a comportarse como una herramienta profesional hecha a medida.
+
+# 🚀 los programas :
 
 
 
