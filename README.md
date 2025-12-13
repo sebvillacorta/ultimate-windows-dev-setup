@@ -103,6 +103,10 @@ Lo utilizo porque es seguro, open-source, ampliamente probado y confiable, y per
 <br>
 
 
+# ⚙️1 Empesamos con Optimización Inicial del Sistema con Chris Titus Tech Tool
+
+![simple6]( )
+
 
 
 
